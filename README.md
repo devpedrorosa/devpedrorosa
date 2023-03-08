@@ -5,14 +5,22 @@
   <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Pedro Rosa </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpedrorosa-dev&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
 
+
+<h1>🔔 Mídias sociais </h1>
+<div display= inline-block>
+<a href = "mailto:phrosa.c@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<a href="https://www.linkedin.com/in/pedro-henrique-rosa-cruz-3901b3269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+SOBRE MIM:
+
+
 - 👊 Criei uma grande paixão para desenvolver e meu sonho é se tornar um grande desenvolvedor
 
-- 🚀  Todos meus projetos estão aqui
+- 🚀  Desenvolvedor iniciante
 
 - 👨‍💻  Estou cursando o centro universitário CESMAC
 
 
-- 🔥 Curiosidade: pretendo criar um canal no youtube mostrando a rotina de um desenvolvedor iniciante até profissional
 
 <br>
 
@@ -31,9 +39,4 @@
 
 <br><br>
 
-<h1>🔔 Mídias sociais </h1>
 
-
-<div display= inline-block>
-<a href = "mailto:phrosa.c@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-<a href="https://www.linkedin.com/in/pedro-henrique-rosa-cruz-3901b3269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
