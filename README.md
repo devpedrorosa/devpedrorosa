@@ -31,7 +31,7 @@
 
 <br><br>
 
-<h1>👾 Social Media </h1>
+<h1>🔔 Mídias sociais </h1>
 
 
 <div display= inline-block>
