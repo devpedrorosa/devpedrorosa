@@ -30,7 +30,7 @@ SOBRE MIM:
 </div>
 
 &nbsp;
-
+<h1>➕Habilidades </h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,vim,c" />
