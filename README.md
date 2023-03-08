@@ -5,14 +5,14 @@
   <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Pedro Rosa </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpedrorosa-dev&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
 
-- 🔥 Criei uma grande paixão para desenvolver e meu sonho é se tornar um grande desenvolvedor
+- 👊 Criei uma grande paixão para desenvolver e meu sonho é se tornar um grande desenvolvedor
 
-- 🔭 Estou cursando o centro universitário CESMAC
+- 🚀  Todos meus projetos estão aqui
 
-- 👨‍💻 Todos meus projetos estão aqui
+- 👨‍💻  Estou cursando o centro universitário CESMAC
 
 
-- ⚡ Curiosidade: pretendo criar um canal no youtube mostrando a rotina de um desenvolvedor iniciante até profissional
+- 🔥 Curiosidade: pretendo criar um canal no youtube mostrando a rotina de um desenvolvedor iniciante até profissional
 
 <br>
 
