@@ -26,6 +26,8 @@ SOBRE MIM:
  
   <img height="210em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devpedrorosa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=030303"/>
  
+ __________________________________________________________________________________________________________________________________________________________________
+ 
  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devpedrorosa&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
  __________________________________________________________________________________________________________________________________________________________________
  
