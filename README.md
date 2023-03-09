@@ -29,14 +29,21 @@ SOBRE MIM:
   [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devpedrorosa&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
  __________________________________________________________________________________________________________________________________________________________________
  
-  
+
 &nbsp;
-<h1> ➕Habilidades </h1>
+<h1> 📜Habilidades </h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,vim,c,git" />
   </a>
 </p>
 
 <br><br>
+_____________________________________________________________________________________________________________________________________________________________________
+&nbsp;
+  <h1> 📚Estudando </h1>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,html,css" />
+  </a>
+</p>
 
-
+<br><br>
