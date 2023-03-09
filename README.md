@@ -23,15 +23,14 @@ SOBRE MIM:
 
 
 <br>
-
-<div align="center">
-<img height="210em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devpedrorosa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=030303"/>
-<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devpedrorosa&layout=compact&langs_count=7&theme=midnight-purple&bg_color=030303"/>
-</div>
+  <img height="210em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devpedrorosa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=030303"/>
+  
+  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devpedrorosa&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
   
 &nbsp;
-<h1>➕Habilidades </h1>
-<p align="center">
+<h1> ➕Habilidades </h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,vim,c" />
   </a>
