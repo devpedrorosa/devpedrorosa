@@ -50,3 +50,4 @@ ________________________________________________________________________________
 </p>
 
 <br><br>
+![Snake animation](https://github.com/devpedrorosa/devpedrorosa/blob/output/github-contribution-grid-snake.svg)
