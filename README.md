@@ -33,7 +33,7 @@ SOBRE MIM:
 &nbsp;
 <h1> ➕Habilidades </h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vim,c" />
+    <img src="https://skillicons.dev/icons?i=python,vim,c,git" />
   </a>
 </p>
 
