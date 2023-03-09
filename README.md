@@ -25,10 +25,10 @@ SOBRE MIM:
 <br>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devpedrorosa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=030303"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrorosa&layout=compact&langs_count=7&theme=midnight-purple&bg_color=030303"/>
+<img height="210em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devpedrorosa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=030303"/>
+<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devpedrorosa&layout=compact&langs_count=7&theme=midnight-purple&bg_color=030303"/>
 </div>
-
+  
 &nbsp;
 <h1>➕Habilidades </h1>
 <p align="center">
