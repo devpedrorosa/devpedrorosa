@@ -18,7 +18,7 @@ SOBRE MIM:
 
 - 🚀  Desenvolvedor iniciante
 
-- 👨‍💻  Estou cursando o centro universitário CESMAC
+- 👨‍💻  Estou cursando no centro universitário CESMAC
    ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___
 
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=devpedrorosa&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
