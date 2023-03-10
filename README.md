@@ -3,7 +3,7 @@
   
   
   <h1 align="left">Olá 👋<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Pedro Rosa </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devpedrorosa-dev&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devpedrorosa-dev&color=orange&style=for-the-badge" alt="Profile views" /> </p>
 
 
 <h1>🔔 Mídias sociais </h1>
